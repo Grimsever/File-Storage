@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FileStorage": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    }
+  }
+}
